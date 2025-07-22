@@ -109,10 +109,10 @@
 ## Лицензии
 
 - Основной код приложения распространяется под лицензией **MIT License**.  
-  Полный текст лицензии доступен в файле [`LICENSE`](./LICENSE.md).
+  Полный текст лицензии доступен в файле [`LICENSE.md`](./LICENSE.md).
 
 - Приложение использует внешний исполняемый файл **FFmpeg** (версия `2025-07-10-git-82aeee3c19-essentials_build`), распространяемый под лицензией **GNU Lesser General Public License (LGPL) версии 3.0**.  
-  Условия использования FFmpeg описаны в файле [`LICENSE LGPL-3.0`](./LICENSE%20LGPL-3.0.md).
+  Условия использования FFmpeg описаны в файле [`COPYING.md`](./COPYING.md).
 
 - Исходный код FFmpeg доступен по адресу:  
   [https://github.com/FFmpeg/FFmpeg/commit/82aeee3c19](https://github.com/FFmpeg/FFmpeg/commit/82aeee3c19)
